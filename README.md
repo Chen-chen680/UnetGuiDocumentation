@@ -10,7 +10,7 @@
 
 4. 使用本程序的工作流程大致如下：
 
-   ![工作流程](C:\Users\12517\Desktop\UnetGui - 副本\picture\工作流程.png)
+   ![工作流程](http://49.234.102.84/workstream.png)
 
 ## 2、安装CUDA
 
